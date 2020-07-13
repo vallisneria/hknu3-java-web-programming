@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<jnlp spce="0.2 1.0" codebase="http://kmlee.dothome.co.kr" href="miniplayer.jnlp">
+    <infomation>
+        <title>My MiniMusicPlayer</title>
+        <description>My MiniMusicPlayer Web Starter Demo</description>
+        <offline-allowed/>
+    </infomation>
+
+    <resource>
+        <j2se version="1.3+"/>
+        <jar href="miniplayer.jar"/>
+    </resource>
+
+    <application-desc main-class="ch17_01.MiniMusicPlayer3"
+</jnlp>
